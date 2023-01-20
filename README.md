@@ -9,7 +9,7 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Twitter](https://twitter.com/jessicaboton)
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I used to play football in the LNNFG 🏃‍♀️
+- ⚡ Fun fact: I used to play football in the LNFFG 🏃‍♀️
 
 ---
 
