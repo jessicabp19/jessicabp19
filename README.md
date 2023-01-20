@@ -15,7 +15,7 @@
 
 ## :bulb: Some Cool Stats:  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabp19&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabp19&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jessicabp19&theme=noctis-minimus&mode=weekly)](https://git.io/streak-stats)
 
