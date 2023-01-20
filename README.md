@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Jessica 👋
 
-<!--
-**jessicabp19/jessicabp19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Systems Engineering Student from Guatemala
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my work / studies life balance
+- 🌱 I’m currently learning more and more about React
+- 👯 I’m looking to collaborate on content creation for social networks, sky is the limit!
+- 🤔 I’m looking for help with Thesis ideas!
+- 💬 Ask me about anything
+- 📫 How to reach me: [Twitter](https://twitter.com/jessicaboton)
+- 😄 Pronouns: She / Her
+- ⚡ Fun fact: I used to play football in the LNNFG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## :bulb: Some Cool Stats:  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabp19&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jessicabp19&theme=noctis-minimus&mode=weekly)](https://git.io/streak-stats)
+
+
+
+
