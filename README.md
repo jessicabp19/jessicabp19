@@ -2,14 +2,14 @@
 
 ### I'm a Systems Engineering Student from Guatemala
 
-- 🔭 I’m currently working on my work / studies life balance
+- 🔭 I’m currently working on my work / studies / life balance
 - 🌱 I’m currently learning more and more about React
-- 👯 I’m looking to collaborate on content creation for social networks, sky is the limit!
+- 👯 I’m looking to collaborate on Content Creation for Social Networks, sky is the limit!
 - 🤔 I’m looking for help with Thesis ideas!
-- 💬 Ask me about anything
+- 💬 Ask me about Anything
 - 📫 How to reach me: [Twitter](https://twitter.com/jessicaboton)
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I used to play football in the LNNFG
+- ⚡ Fun fact: I used to play football in the LNNFG 🏃‍♀️
 
 ---
 
